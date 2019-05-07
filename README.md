@@ -1,7 +1,7 @@
 # ML-Basics
 Machine Learning Basic Concepts
   
-[Linear Regression](01 Linear Regression.ipynb)
+[Linear Regression](MLNotebooks/01 Linear Regression.ipynb)
 
 [Polynomial Regression](02 Polynomial Regression.ipynb)
 
